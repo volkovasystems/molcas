@@ -1,0 +1,2 @@
+# molcas
+MoldCast class factory.
